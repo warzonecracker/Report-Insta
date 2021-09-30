@@ -22,3 +22,5 @@ apk add git
 git clone https://github.com/warzonecracker/Report-Insta
 cd Report-Insta
 python3 Report-Insta.py
+```
+# Bo Bininy Ferkari https://www.warzonecracker.tk
