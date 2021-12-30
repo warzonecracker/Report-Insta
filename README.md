@@ -9,7 +9,7 @@ pip install requests
 pkg install git
 git clone https://github.com/warzonecracker/Report-Insta
 cd Report-Insta
-python3 Report-Insta.py
+python Report-Insta.py
 ```
 # Command For Iphone
 ```
